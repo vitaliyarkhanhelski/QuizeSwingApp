@@ -1,2 +1,4 @@
 # QuizeSwingApp
-Quize Sqing App Java
+Quize, Example of Swing Application
+
+Swing, Java
